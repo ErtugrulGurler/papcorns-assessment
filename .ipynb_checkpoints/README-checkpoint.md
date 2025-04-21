@@ -26,7 +26,7 @@ Please complete the following tasks using Python and SQL. You can use any librar
 
 ### Core Tasks
 
-1. Calculate the total revenue generated from subscriptions for each country.   
+1. Calculate the total revenue generated from subscriptions for each country.
 2. Calculate the total number of trials given to users who came from Instagram.
 3. Create a new column named 'acquisition_channel' by categorizing users based on their 'attribution_source':
    - 'Paid': users from instagram or tiktok
